@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c8469b8790f29b44fa5ec9791a1218e1
+timeCreated: 1429030848
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - shieldSound: {fileID: 8300000, guid: 672367d82f64529478eec4a328368aeb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

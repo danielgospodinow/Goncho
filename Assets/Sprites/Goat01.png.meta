@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: c6b3a6ba2faf3374eb2c3daf9a755bfe
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Goat01_0
+    21300002: Goat01_1
+    21300004: Goat01_2
+    21300006: Goat01_3
+    21300008: Goat01_4
+    21300010: Goat01_5
+    21300012: Goat01_6
+    21300014: Goat01_7
+    21300016: Goat01_8
+    21300018: Goat01_9
+    21300020: Goat01_10
+    21300022: Goat01_11
+    21300024: Goat01_12
+    21300026: Goat01_13
+    21300028: Goat01_14
+    21300030: Goat01_15
+    21300032: Goat01_16
+    21300034: Goat01_17
+    21300036: Goat01_18
+    21300038: Goat01_19
+    21300040: Goat01_20
+    21300042: Goat01_21
+    21300044: Goat01_22
+    21300046: Goat01_23
+    21300048: Goat01_24
+    21300050: Goat01_25
+    21300052: Goat01_26
+    21300054: Goat01_27
+    21300056: Goat01_28
+    21300058: Goat01_29
+    21300060: Goat01_30
+    21300062: Goat01_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Goat01_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 930
+        width: 20
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goat01_1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 933
+        width: 20
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goat01_2
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 930
+        width: 20
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goat01_3
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 933
+        width: 20
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goat01_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 804
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goat01_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 806
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goat01_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 805
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goat01_7
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 806
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goat01_8
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 675
+        width: 20
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goat01_9
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 678
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goat01_10
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 675
+        width: 20
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goat01_11
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 675
+        width: 20
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goat01_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 549
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goat01_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 551
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goat01_14
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 550
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goat01_15
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 551
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goat01_16
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 423
+        width: 20
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goat01_17
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 423
+        width: 20
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goat01_18
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 423
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goat01_19
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 423
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goat01_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 294
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goat01_21
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 294
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goat01_22
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 294
+        width: 57
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goat01_23
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 292
+        width: 60
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goat01_24
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 168
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goat01_25
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 168
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goat01_26
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 168
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goat01_27
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 166
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goat01_28
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 38
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goat01_29
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 129
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goat01_30
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 38
+        width: 57
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goat01_31
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 129
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

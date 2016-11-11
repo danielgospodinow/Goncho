@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6bf0bdf0599ebe64eac94973d1076ba1
+timeCreated: 1432374298
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - monsterHealthBar: {fileID: 105264, guid: a6c091267ca647148a184007c990c6c3, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

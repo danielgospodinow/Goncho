@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 8a72ffba25c088349984b59bd2159399
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: orc _L_arm
+    21300002: orc_head
+    21300004: orc _R_arm
+    21300006: orc_weapon
+    21300008: orc_L_hand
+    21300010: orc_body
+    21300012: orc _R_hand
+    21300014: orc_pants
+    21300016: orc _L_leg
+    21300018: orc _R_leg
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: orc _L_arm
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 563
+        width: 120
+        height: 162
+      alignment: 9
+      pivot: {x: .688409269, y: .818300962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: orc_head
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 678
+        width: 243
+        height: 181
+      alignment: 9
+      pivot: {x: .486187965, y: .19404088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: orc _R_arm
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 572
+        width: 144
+        height: 144
+      alignment: 9
+      pivot: {x: .219031021, y: .808514893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: orc_weapon
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 560
+        width: 193
+        height: 186
+      alignment: 9
+      pivot: {x: .199934408, y: .308066428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: orc_L_hand
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 465
+        width: 82
+        height: 77
+      alignment: 9
+      pivot: {x: .263752997, y: .767351449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: orc_body
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 420
+        width: 179
+        height: 229
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: orc _R_hand
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 454
+        width: 65
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: orc_pants
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 366
+        width: 122
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: orc _L_leg
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 270
+        width: 76
+        height: 79
+      alignment: 9
+      pivot: {x: .378746837, y: .921728969}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: orc _R_leg
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 277
+        width: 67
+        height: 70
+      alignment: 9
+      pivot: {x: .363400578, y: .924416661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

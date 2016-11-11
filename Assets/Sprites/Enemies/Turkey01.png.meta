@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: 795e1e8709a49f147a06b2c2c77137c8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Turkey01_0
+    21300002: Turkey01_1
+    21300004: Turkey01_2
+    21300006: Turkey01_3
+    21300008: Turkey01_4
+    21300010: Turkey01_5
+    21300012: Turkey01_6
+    21300014: Turkey01_7
+    21300016: Turkey01_8
+    21300018: Turkey01_9
+    21300020: Turkey01_10
+    21300022: Turkey01_11
+    21300024: Turkey01_12
+    21300026: Turkey01_13
+    21300028: Turkey01_14
+    21300030: Turkey01_15
+    21300032: Turkey01_16
+    21300034: Turkey01_17
+    21300036: Turkey01_18
+    21300038: Turkey01_19
+    21300040: Turkey01_20
+    21300042: Turkey01_21
+    21300044: Turkey01_22
+    21300046: Turkey01_23
+    21300048: Turkey01_24
+    21300050: Turkey01_25
+    21300052: Turkey01_26
+    21300054: Turkey01_27
+    21300056: Turkey01_28
+    21300058: Turkey01_29
+    21300060: Turkey01_30
+    21300062: Turkey01_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Turkey01_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 934
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turkey01_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 933
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turkey01_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 934
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turkey01_3
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 933
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turkey01_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 798
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turkey01_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 799
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turkey01_6
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 799
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turkey01_7
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 799
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turkey01_8
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 677
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turkey01_9
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 677
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turkey01_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 677
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turkey01_11
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 677
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turkey01_12
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 543
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turkey01_13
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 544
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turkey01_14
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 544
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turkey01_15
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 544
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turkey01_16
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 422
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turkey01_17
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 422
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turkey01_18
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 422
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turkey01_19
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 422
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turkey01_20
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 288
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turkey01_21
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 288
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turkey01_22
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 288
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turkey01_23
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 288
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turkey01_24
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 165
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turkey01_25
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 165
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turkey01_26
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 165
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turkey01_27
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 165
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turkey01_28
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 32
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turkey01_29
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 32
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turkey01_30
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 32
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turkey01_31
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 32
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
