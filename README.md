@@ -2,7 +2,7 @@
 **Goncho** is an Android Unity mobile game made with C#. 
 
 Splash Art:
-![image] (http://i.imgur.com/w84nPbq.jpg)
+![image] (http://i.imgur.com/iQbRmQ0.jpg)
 
 Screenshots from the game:
 
