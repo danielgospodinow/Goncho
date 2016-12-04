@@ -4,7 +4,7 @@
 ######Splash Art:
 ![image] (http://i.imgur.com/iQbRmQ0.jpg)
 
-######Screenshots from the game:
+######Screenshots:
 
 ![image](http://i.imgur.com/ZaCwAzL.png)
 ![image](http://i.imgur.com/rdGDdw5.png)
